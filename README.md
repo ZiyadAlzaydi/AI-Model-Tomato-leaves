@@ -20,7 +20,7 @@ Platform Used: Teachable Machine
 
 Model Type: Image Classification
 
-Input Method: Upload images or use a live webcam
+Input Method: Upload images 
 
 Training Dataset: Images of tomato leaves for each category, collected from plant disease databases or captured using smartphone cameras.
 
