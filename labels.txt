@@ -1,0 +1,4 @@
+0 healthy
+1 Early_blight
+2 Late_blight
+3 Bacterial_spot
